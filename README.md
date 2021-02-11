@@ -2,8 +2,8 @@
 
 #### Helps declutter Uber tech blog so you stay focussed on the main content
  
-The Uber Tech Blog is a goldmine of useful information. All rights reserved.
-However are a few issues as to how the User experience is laid out.
+The Uber Tech Blog is a goldmine of useful information. All rights reserved by Uber.
+However, there are a few issues in the way the user experience is laid out.
 
 - The sticky header is too big.
 - The sidebar communicates redundant information and takes a lot of space.
