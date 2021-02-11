@@ -1,0 +1,15 @@
+{
+  "name": "Declutter Uber Tech Blog",
+  "description": "Helps declutter Uber tech blog so you stay focussed. ",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {},
+  "content_scripts": [{
+    "matches": ["*://*.eng.uber.com/*"],
+    "js": ["declutter.js"]
+  }],
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
