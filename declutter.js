@@ -1,5 +1,3 @@
-let color = '#ddd';
-
 window.onload = removeStickyHeader;
 
 function removeStickyHeader() {
